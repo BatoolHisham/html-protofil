@@ -97,6 +97,29 @@ h3{
   padding: 50px 20px;
   background-color: #ffe7f7; /* optional light background */
 }
+.bottom-container {
+  background-color: #f2f2f2; /* optional background */
+  padding: 30px 20px;
+  text-align: center; /* center all inline elements inside */
+}
+
+.footer-link {
+  margin: 0 15px;           /* spacing between links */
+  text-decoration: none;
+  color: #007BFF;           /* blue color */
+  font-weight: bold;
+}
+
+.footer-link:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.copyright {
+  color: #666;
+  font-size: 14px;
+  margin-top: 15px;
+}
 
 
 
